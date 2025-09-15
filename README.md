@@ -12,7 +12,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
@@ -21,10 +20,6 @@
 ### ☕ Backend Frameworks  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### 🔧 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
