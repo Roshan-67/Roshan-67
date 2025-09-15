@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Roshan  
 
-<!--
-**Roshan-67/Roshan-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **C++ | Java | Backend Development (Spring Boot)**  
+🌱 Currently exploring **Full Stack Development & Open Source**  
+⚡ Fun fact: I’m a **heavy sleeper 😴**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-67&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-67&layout=compact&theme=radical)  
+
+---
+
+⭐️ From [Roshan-67](https://github.com/Roshan-67)
