@@ -27,11 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white)  
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
-
 ### 💻 Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
