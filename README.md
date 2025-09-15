@@ -2,7 +2,6 @@
 
 💻 Passionate about **C++ | Java | Backend Development (Spring Boot)**  
 🌱 Currently exploring **Full Stack Development & Open Source**  
-⚡ Fun fact: I’m a **heavy sleeper 😴**  
 
 ---
 
