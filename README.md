@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roshan  
 
-💻 Passionate about **C++ | Java | Backend Development (Spring Boot)**  
+💻 Passionate about **C++ | Java | Machine Learning**  
 🌱 Currently exploring **Full Stack Development & Open Source**  
 
 ---
@@ -19,7 +19,6 @@
 
 ### ☕ Backend Frameworks  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
 
 ### 🔧 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
