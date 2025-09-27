@@ -5,33 +5,20 @@
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-
-### ☕ Backend Frameworks  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white)  
-
-### 💻 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)  
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white/" alt="C" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" alt="SpringBoot" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="Github" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white" alt="VS" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats  
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-67&show_icons=true&theme=radical)  
