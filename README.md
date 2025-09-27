@@ -8,9 +8,9 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c/" alt="C" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=blue" alt="C" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" width="80" height="480"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" width="80" height="80"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width="40" height="40"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="40" height="40"/>
