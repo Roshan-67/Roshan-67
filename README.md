@@ -1,7 +1,3 @@
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--                         HEADER SECTION                       -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
 <h2 align="center">
   <br>
   <span style="font-size: 42px; font-weight: 700; color: #d400ff; text-shadow: 0 0 10px #d400ff, 0 0 20px #d400ff;">Hi I'm Roshan :)</span>
@@ -59,12 +55,4 @@
 </p>
 
 <br>
-
-<!-- ──────────────────────────────────────────────────────────── -->
-<!--                           FOOTER                             -->
-<!-- ──────────────────────────────────────────────────────────── -->
-
-<p align="center" style="font-size:14px; color: #bbbbbb;">
-  Crafted by <strong>Roshan Choudhary</strong>
-</p>
 
