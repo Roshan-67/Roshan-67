@@ -18,6 +18,8 @@
 
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="48" height="48"/>
 
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java" width="48" height="48"/>
+
   <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48"/>
 
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="48" height="48"/>
