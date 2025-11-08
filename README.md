@@ -3,7 +3,6 @@
 <!-- ──────────────────────────────────────────────────────────── -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=0&pause=1000&color=00000000&center=true&vCenter=true&width=0&height=0&lines=">
   <br>
   <span style="font-size: 42px; font-weight: 700; color: #d400ff; text-shadow: 0 0 10px #d400ff, 0 0 20px #d400ff;">Roshan Choudhary</span>
   <br>
