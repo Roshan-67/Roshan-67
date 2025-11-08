@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <br>
-  <span style="font-size: 42px; font-weight: 700; color: #d400ff; text-shadow: 0 0 10px #d400ff, 0 0 20px #d400ff;">Hi I'm Roshan</span>
+  <span style="font-size: 42px; font-weight: 700; color: #d400ff; text-shadow: 0 0 10px #d400ff, 0 0 20px #d400ff;">Hi I'm Roshan :)</span>
   <br>
 </h2>
 
