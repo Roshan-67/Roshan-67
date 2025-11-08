@@ -30,12 +30,12 @@
 
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="48" height="48"/>
 
+  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" width="48" height="48"/>
+
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="48" height="48"/>
 
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="48" height="48"/>
-
-  <img src="https://img.icons8.com/color/48/powershell.png" title="PowerShell" width="48" height="48"/>
-
+  
   </p>
 
 <br>
