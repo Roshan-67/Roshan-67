@@ -38,15 +38,3 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/hariketsheth/hariketsheth/blob/master/assets/gradients/line-purple.gif" width="78%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/hariketsheth/hariketsheth/blob/master/assets/gradients/line-purple.gif" width="78%">
-</p>
-
-<br>
-
