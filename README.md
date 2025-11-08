@@ -24,17 +24,17 @@
 
   <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48"/>
 
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="48" height="48"/>
 
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="48" height="48"/>
+
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" width="48" height="48"/>
 
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="48" height="48"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>
 
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="48" height="48"/>
-
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="48" height="48"/>
   
   </p>
 
