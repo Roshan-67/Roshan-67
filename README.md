@@ -10,8 +10,6 @@
 
 <br>
 
-<h3 align="center" style="color:#d400ff;">Tech Stack</h3>
-
 <p align="center">
 
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C" width="48" height="48"/>
@@ -45,14 +43,6 @@
 </p>
 
 <br>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-67&layout=compact&theme=midnight-purple&hide_border=true" height="165" />
-
-</div>
-
-<br><br>
 
 <p align="center">
   <img src="https://github.com/hariketsheth/hariketsheth/blob/master/assets/gradients/line-purple.gif" width="78%">
