@@ -30,7 +30,7 @@
 
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="48" height="48"/>
 
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="48" height="48"/>
 
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="48" height="48"/>
 
