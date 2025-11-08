@@ -49,12 +49,7 @@
   <!-- PowerShell -->
   <img src="https://img.icons8.com/color/48/powershell.png" title="PowerShell" width="48" height="48"/>
 
-  <!-- Matplotlib -->
-  <img src="https://img.icons8.com/external-others-pike-picture/50/000000/external-matplotlib-social-media-others-pike-picture.png" title="Matplotlib" width="48" height="48"/>
-
-  <!-- PyTorch -->
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" width="48" height="48"/>
-</p>
+  </p>
 
 <br>
 
